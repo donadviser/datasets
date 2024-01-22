@@ -1,3 +1,8 @@
+## Social Security Names
+
+from https://www.ssa.gov/oact/babynames/
+
+Data at `data/names-ss-1910-2022.csv.zip`
 
 ## Ames Housing Data 
 
@@ -32,6 +37,10 @@ From https://www.kaggle.com/rounakbanik/pokemon (CC0: Public Domain)
 https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00420072/detail
 
  Data at ``../data/snow-alta-1990-2017.csv``
+
+ ## Ecommerce Store Sample Transaction
+
+ ``../data/transaction_data.xlsx``
 
  Documentation - https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf
 
